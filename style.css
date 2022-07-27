@@ -1,0 +1,27 @@
+/* Theme Common */
+
+.text-primary-color {
+    color: #363958;
+}
+.text-secondary-color {
+    color: #FA804C;
+}
+.btn-theme {
+    background-color: #3543BC;
+    color: #ffffff;
+    font-weight: 600;
+    padding: 12px 25px;
+    text-transform: uppercase;
+}
+.theme-color {
+   background-color: #FFF9F4;
+}
+.bg-picture {
+    background-color: #F1F1F1;
+}
+.bg-picture img, .formal-shoes img {
+    max-width: 300px;
+    max-height: 300px;
+    margin: 0 auto;
+    display: block;
+}
